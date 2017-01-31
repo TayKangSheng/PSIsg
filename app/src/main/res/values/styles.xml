@@ -1,0 +1,29 @@
+<resources>
+    <!-- inherit from the material theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+        <item name="android:colorPrimary">@color/psisg_Blue</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">@color/psisg_Blue</item>
+        <!--   theme UI controls like checkboxes and text fields -->
+        <item name="android:colorAccent">@color/psisg_accent</item>
+        <!--   text color -->
+        <!--<item name="android:textColorPrimary">@color/textColorPrimary</item>-->
+        <item name="android:navigationBarColor">@color/psisg_grey</item>
+        <item name="android:windowBackground">@color/psisg_Blue</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorPrimary">@color/psisg_grey</item>
+        <item name="android:textColorPrimary">@color/psisg_White</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PSI SG</string>
+    <string name="API_url">https://api.data.gov.sg/v1/environment/psi</string>
+    <string name="API_key">5oE2yNgO6mrIfFXG3Y4KNf7KGD4thuO7</string>
+    <string name="google_maps_api_key">AIzaSyD2xmOza7EtDxBxuV11M3sUit3kP5f9OzE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

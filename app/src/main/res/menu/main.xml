@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:showAsAction="always"
+        android:tint="@color/textColorPrimary"/>
+
+    <item android:id="@+id/action_chart"
+        android:icon="@drawable/ic_chart"
+        android:title="Chart"
+        app:showAsAction="always"
+        android:tint="@color/textColorPrimary"/>
+
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:title="Refresh"
+        app:showAsAction="always"
+        android:checkable="true"
+        android:tint="@color/textColorPrimary"/>
+</menu>

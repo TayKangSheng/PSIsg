@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/psisg_grey</color>
+    <color name="colorPrimaryDark">@color/psisg_Blue</color>
+    <color name="colorAccent">@color/psisg_accent</color>
+    <color name="textColorPrimary">@color/psisg_White</color>
+    <color name="navigationBarColor">@color/psisg_grey</color>
+    <color name="windowBackground">@color/psisg_Blue</color>
+
+    <color name="psisg_White">#f7f7f7</color>
+    <color name="psisg_Blue">#003366</color>
+    <color name="psisg_grey">#262626</color>
+    <color name="psisg_accent">#FF4081</color>
+
+</resources>
+
